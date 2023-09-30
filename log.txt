@@ -1,0 +1,2 @@
+sept 29, 2023 7:25:32 P. M. B4.EjercicioJava main
+INFO: Resultado de la multiplicación: 841
